@@ -1,0 +1,22 @@
+[data,varnames,casenames] = tblread('data.supermarkets.inventories','\t');
+row1=data(1,:);
+row2=data(2,:);
+sum1=0;
+for i=1:100
+    sum1=sum1+power(abs(row1(i)-row2(i)),1);
+end
+dist1=nthroot(sum1,1)
+
+sum2=0;
+for i=1:100
+    sum2=sum2+power(abs(row1(i)-row2(i)),2);
+end
+dist2=nthroot(sum2,2)
+
+suminf=0;
+for i=1:100
+    suminf=suminf+power(abs(row1(i)-row2(i)),inf);
+end
+distinf=nthroot(sum2,inf)
+
+cos=

@@ -1,0 +1,40 @@
+A=importdata('./data/data/data.online.scores','\t');
+mid=A(:,2,:);
+mids=sort(mid);
+min=mids(1)
+n=length(mids);
+max=mids(n)
+Q1=mids(n/4)
+Median=mids(n/2)
+Q3=mids(n*3/4)
+mean=sum(mids)/n
+
+maxMode=0;noModes=0;
+for i=1:n
+    mode=0;
+    for j=i:n
+        if mids(i)==mids(j)
+            mode=mode+1;
+        end
+    end
+    if mode>maxMode
+        maxMode=mode;% 83?
+        idx=i;
+    end
+end
+maxMode
+numMode=mids(idx)
+sumDiff=0;
+for i=1:n
+    sumDiff=sumDiff+(mids(i)-mean)*(mids(i)-mean);
+end
+expVar=sumDiff/(n-1)
+
+mode=0
+for i=1:n
+    if mids(i)==83
+        mode=mode+1;
+    end
+end
+mode
+            

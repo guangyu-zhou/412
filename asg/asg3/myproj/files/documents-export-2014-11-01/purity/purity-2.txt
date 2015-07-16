@@ -1,0 +1,100 @@
+0.560634 engine 
+0.560634 question 
+0.560634 based web 
+0.560634 scale 
+0.560634 topic 
+0.560634 mobile 
+0.560634 service web 
+0.560634 driven 
+0.560634 structured 
+0.560634 result 
+0.560634 page web 
+0.560634 search engine 
+0.560634 web 
+0.560634 collection 
+0.560634 page 
+0.560634 study 
+0.560634 retrieval document 
+0.560634 system retrieval 
+0.560634 collaborative 
+0.560634 based retrieval 
+0.560634 source 
+0.560634 extracting 
+0.560634 intelligent 
+0.560634 measure 
+0.560634 multimedia 
+0.560634 retrieval model 
+0.560634 ontology 
+0.560634 answering 
+0.560634 theoretic 
+0.560634 cross 
+0.560634 robot 
+0.560634 searching 
+0.560634 site 
+0.560634 task 
+0.560634 information based 
+0.560634 social 
+0.560634 semantic web 
+0.560634 building 
+0.560634 word 
+0.560634 understanding 
+0.560634 agent 
+0.560634 information retrieval 
+0.560634 semantic 
+0.560634 relevance 
+0.560634 term 
+0.560634 interface 
+0.560634 search web 
+0.560634 user 
+0.560634 context 
+0.560634 interactive 
+0.560634 retrieval 
+0.560634 feedback 
+0.560634 filtering 
+0.560634 system information 
+0.560634 generation 
+0.560634 natural 
+0.560634 service 
+0.560634 content 
+0.560634 behavior 
+0.560634 retrieval text 
+0.560634 natural language 
+0.560634 summarization 
+0.560634 digital 
+0.497182 information 
+0.38543 document 
+0.215493 language 
+0.198926 automatic 
+0.166617 search 
+0.123466 towards 
+0.0389581 extraction 
+0.0297683 system based 
+-0.0233142 text 
+-0.0428651 based 
+-0.0969834 modeling 
+-0.119207 integration 
+-0.131095 approach 
+-0.198209 visual 
+-0.198695 ranking 
+-0.203994 system 
+-0.233744 indexing 
+-0.234296 image 
+-0.237941 application 
+-0.279624 analysis 
+-0.295865 environment 
+-0.365446 evaluation 
+-0.511049 multi 
+-0.5196 model 
+-0.548206 similarity 
+-0.575158 structure 
+-0.604355 domain 
+-0.669754 management 
+-0.772406 using 
+-1.12384 xml 
+-1.30326 data 
+-1.40891 mining 
+-1.41351 knowledge 
+-1.46336 query 
+-1.47924 classification 
+-1.87712 database 
+

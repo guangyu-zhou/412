@@ -1,0 +1,103 @@
+0.582766 support vector 
+0.582766 prediction 
+0.582766 unsupervised 
+0.582766 probabilistic 
+0.582766 learning model 
+0.582766 network bayesian 
+0.582766 training 
+0.582766 semi 
+0.582766 segmentation 
+0.582766 active 
+0.582766 learning using 
+0.582766 combining 
+0.582766 feature selection 
+0.582766 nearest 
+0.582766 robust 
+0.582766 neural 
+0.582766 ensemble 
+0.582766 comparison 
+0.582766 categorization 
+0.582766 using model 
+0.582766 based learning 
+0.582766 support machine vector 
+0.582766 classification using 
+0.582766 instance 
+0.582766 network learning 
+0.582766 semi supervised 
+0.582766 kernel 
+0.582766 mixture 
+0.582766 hidden 
+0.582766 selection 
+0.582766 recognition 
+0.582766 feature 
+0.582766 class 
+0.582766 bayesian 
+0.582766 support 
+0.582766 hierarchical 
+0.582766 vector 
+0.582766 variable 
+0.582766 regression 
+0.582766 machine learning 
+0.582766 improving 
+0.582766 online 
+0.582766 machine vector 
+0.582766 learning supervised 
+0.582766 nearest neighbor 
+0.582766 hybrid 
+0.582766 support machine 
+0.582766 example 
+0.582766 based using 
+0.582766 boosting 
+0.582766 neighbor 
+0.582766 classification text 
+0.582766 tracking 
+0.582766 machine 
+0.582766 based model 
+0.582766 tree decision 
+0.582766 markov 
+0.582766 supervised 
+0.582766 classifier 
+0.582766 network neural 
+0.450355 classification 
+0.297017 learning 
+0.283585 using 
+0.232899 method 
+0.200897 decision 
+0.177178 network 
+0.174886 model 
+0.135721 multiple 
+0.121955 multi 
+0.103431 via 
+0.0911721 estimation 
+0.0671902 function 
+0.0668902 clustering 
+0.02474 analysis 
+-0.0111053 image 
+-0.0319306 process 
+-0.0414062 ranking 
+-0.0418345 visual 
+-0.0430809 structure 
+-0.0606032 cost 
+-0.0985463 attribute 
+-0.141896 inference 
+-0.142424 approach 
+-0.149431 local 
+-0.177203 linear 
+-0.201962 based 
+-0.226081 text 
+-0.227737 framework 
+-0.310565 extraction 
+-0.350054 detection 
+-0.381754 sequence 
+-0.467586 adaptive 
+-0.488796 dynamic 
+-0.590476 tree 
+-0.602658 automatic 
+-0.743856 space 
+-0.785254 representation 
+-0.911383 object 
+-0.912782 algorithm 
+-1.23846 document 
+-1.24178 rule 
+-1.39025 data 
+

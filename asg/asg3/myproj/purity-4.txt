@@ -1,0 +1,105 @@
+0.574437 xml data 
+0.574437 protocol 
+0.574437 expansion 
+0.574437 aggregate 
+0.574437 access 
+0.574437 index 
+0.574437 real 
+0.574437 scheduling 
+0.574437 parallel 
+0.574437 join 
+0.574437 complex 
+0.574437 control concurrency 
+0.574437 update 
+0.574437 peer 
+0.574437 query xml 
+0.574437 continuous 
+0.574437 shape 
+0.574437 sensor 
+0.574437 recovery 
+0.574437 query efficient 
+0.574437 system distributed 
+0.574437 querying 
+0.574437 motion 
+0.574437 concurrency 
+0.574437 sql 
+0.574437 architecture 
+0.574437 query data 
+0.574437 management data 
+0.574437 processor 
+0.574437 execution 
+0.574437 data efficient 
+0.574437 query using 
+0.574437 data distributed 
+0.574437 query object 
+0.574437 disk 
+0.574437 query evaluation 
+0.574437 system query 
+0.574437 self 
+0.574437 scalable 
+0.574437 moving 
+0.574437 database oriented object 
+0.574437 strategy 
+0.574437 server 
+0.574437 optimizing 
+0.574437 database oriented 
+0.574437 performance 
+0.574437 storage 
+0.574437 memory 
+0.574437 query database 
+0.574437 transaction 
+0.574437 view 
+0.574437 query optimization 
+0.574437 file 
+0.574437 optimization 
+0.574437 control 
+0.574437 distributed 
+0.574437 real time 
+0.574437 processing 
+0.574437 query processing 
+0.574437 database distributed 
+0.433471 query 
+0.370147 xml 
+0.246198 object 
+0.185874 spatial 
+0.163189 database object 
+0.14885 adaptive 
+0.0721511 evaluation 
+0.0640499 system database 
+0.0547401 dynamic 
+0.0542056 oriented object 
+0.041861 technique 
+0.023949 environment 
+-0.0363711 system data 
+-0.0384455 oriented 
+-0.0556256 database 
+-0.0799081 efficient 
+-0.0974282 stream 
+-0.111808 management 
+-0.12743 system management 
+-0.142268 implementation 
+-0.161013 cost 
+-0.180404 structure 
+-0.194444 system 
+-0.212431 data 
+-0.221533 data stream 
+-0.272518 modeling 
+-0.353749 approach 
+-0.370488 framework 
+-0.406392 multi 
+-0.407095 indexing 
+-0.429766 multiple 
+-0.470768 time 
+-0.5058 network 
+-0.576457 image 
+-0.604223 relational 
+-0.851017 based 
+-0.882144 method 
+-0.906941 application 
+-0.914015 analysis 
+-0.96314 design 
+-1.01138 tree 
+-1.06097 algorithm 
+-1.17871 using 
+-1.60031 model 
+

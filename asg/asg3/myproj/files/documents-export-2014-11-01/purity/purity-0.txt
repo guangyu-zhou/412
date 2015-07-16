@@ -1,0 +1,94 @@
+0.544934 dimension 
+0.544934 privacy 
+0.544934 bound 
+0.544934 distance 
+0.544934 map 
+0.544934 weighted 
+0.544934 dimensional data 
+0.544934 mining frequent 
+0.544934 algorithm approximation 
+0.544934 computation 
+0.544934 matrix 
+0.544934 reduction 
+0.544934 planar 
+0.544934 algorithm efficient 
+0.544934 expression 
+0.544934 approximation 
+0.544934 mining pattern 
+0.544934 series time 
+0.544934 series 
+0.544934 fast 
+0.544934 optimal 
+0.544934 association 
+0.544934 mining data 
+0.544934 maximum 
+0.544934 preserving 
+0.544934 algorithm mining 
+0.544934 discovering 
+0.544934 scheme 
+0.544934 improved 
+0.544934 rule mining association 
+0.544934 cluster 
+0.544934 sparse 
+0.544934 approximate 
+0.544934 value 
+0.544934 minimum 
+0.544934 sequential 
+0.544934 computing 
+0.544934 clustering data 
+0.544934 polynomial 
+0.544934 sampling 
+0.544934 datasets 
+0.544934 finding 
+0.544934 random 
+0.544934 frequent 
+0.544934 rule association 
+0.544934 dimensional 
+0.544934 path 
+0.544934 algorithm data 
+0.544934 matching 
+0.544934 flow 
+0.544934 pattern 
+0.544934 graph 
+0.544934 data set 
+0.544934 metric 
+0.544934 mining association 
+0.544934 rule mining 
+0.43704 mining 
+0.29117 algorithm 
+0.253986 set 
+0.236543 space 
+0.196768 similarity 
+0.174794 tree 
+0.149883 time 
+0.147583 rule 
+0.0650161 sequence 
+0.0449782 detection 
+0.00573774 indexing 
+-0.0115823 data stream 
+-0.0188716 data 
+-0.0855774 linear 
+-0.11063 local 
+-0.122467 stream 
+-0.140385 efficient 
+-0.160189 attribute 
+-0.28518 technique 
+-0.302952 dynamic 
+-0.363828 clustering 
+-0.364273 function 
+-0.400915 estimation 
+-0.404018 discovery 
+-0.420534 via 
+-0.421987 analysis 
+-0.466453 application 
+-0.478955 search 
+-0.521541 spatial 
+-0.583201 structure 
+-0.600128 temporal 
+-0.602609 decision 
+-0.675106 method 
+-0.795235 based 
+-0.890441 using 
+-1.02265 constraint 
+-2.04005 database 
+

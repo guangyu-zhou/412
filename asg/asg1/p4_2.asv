@@ -1,0 +1,13 @@
+% D=readtable('./data/data/iris_data.dat', 'ReadVariableNames',false);
+D= importdata('./data/data/iris2.dat',',');
+E=D(1:150,1:4)
+coeff= princomp(E)
+% label
+% score_class(:,1)
+% figure
+cell = array2cell(D(:,5));
+fig12=gscatter(coeff(:,1),coeff(:,2),cell)
+% figure
+% fig34=gscatter(coeff(:,3),coeff(:,4),cell)
+% T= [-1,0,1;1,0,-1]
+% coeff= princomp(T)

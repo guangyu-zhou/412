@@ -1,0 +1,97 @@
+0.566356 plan 
+0.566356 extended 
+0.566356 solving 
+0.566356 satisfaction 
+0.566356 programming logic 
+0.566356 integrating 
+0.566356 database relational 
+0.566356 complexity 
+0.566356 base knowledge 
+0.566356 action 
+0.566356 logical 
+0.566356 knowledge discovery 
+0.566356 relation 
+0.566356 diagnosis 
+0.566356 knowledge representation 
+0.566356 heuristic 
+0.566356 production 
+0.566356 game 
+0.566356 schema 
+0.566356 reinforcement 
+0.566356 abstract 
+0.566356 programming 
+0.566356 planning 
+0.566356 base 
+0.566356 reasoning 
+0.566356 qualitative 
+0.566356 computer 
+0.566356 base data 
+0.566356 intelligence 
+0.566356 logic program 
+0.566356 dependency 
+0.566356 expert 
+0.566356 semantics 
+0.566356 reinforcement learning 
+0.566356 system knowledge 
+0.566356 description 
+0.566356 tool 
+0.566356 inductive 
+0.566356 functional 
+0.566356 engineering 
+0.566356 formal 
+0.566356 theory 
+0.566356 maintenance 
+0.566356 issue 
+0.566356 system expert 
+0.566356 acquisition 
+0.566356 level 
+0.566356 specification 
+0.566356 program 
+0.566356 design database 
+0.566356 deductive 
+0.566356 logic 
+0.566356 satisfaction constraint 
+0.566356 concept 
+0.566356 belief 
+0.432175 knowledge 
+0.347677 constraint 
+0.331457 design 
+0.283438 representation 
+0.217925 domain 
+0.209706 relational 
+0.206035 temporal 
+0.105475 discovery 
+0.00645767 application 
+0.00366128 framework 
+-0.0354923 system 
+-0.0664485 inference 
+-0.0807708 implementation 
+-0.0840771 approach 
+-0.0944845 system management 
+-0.0953236 integration 
+-0.109355 management 
+-0.117064 modeling 
+-0.166832 database 
+-0.174731 process 
+-0.185775 oriented 
+-0.188109 system data 
+-0.262246 system based 
+-0.301175 oriented object 
+-0.314945 system database 
+-0.368147 environment 
+-0.400271 towards 
+-0.469435 rule 
+-0.47454 database object 
+-0.476153 model 
+-0.574042 language 
+-0.618243 based 
+-0.64732 object 
+-0.68267 data 
+-0.699789 set 
+-0.712186 automatic 
+-0.732927 learning 
+-0.799938 analysis 
+-0.867086 network 
+-1.33672 using 
+-1.78582 information 
+

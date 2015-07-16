@@ -1,0 +1,59 @@
+1087 algorithm 
+720 graph 
+560 time 
+509 tree 
+413 mining data 
+374 search 
+328 using 
+291 based 
+290 set 
+279 optimal 
+253 fast 
+242 dimensional 
+230 random 
+227 finding 
+227 space 
+222 detection 
+204 similarity 
+203 pattern mining 
+202 path 
+194 series time 
+182 bound 
+181 analysis 
+175 matching 
+170 approximate 
+161 metric 
+159 association rule mining 
+159 rule mining 
+157 dynamic 
+153 application 
+149 discovering 
+145 reduction 
+142 method 
+141 stream data 
+141 indexing 
+140 linear 
+138 sequence 
+135 preserving 
+134 distance 
+128 privacy 
+127 frequent mining 
+125 improved 
+123 via 
+122 cluster 
+122 local 
+120 discovery 
+118 maximum 
+117 minimum 
+117 technique 
+116 approximation algorithm 
+115 sequential 
+113 decision 
+113 computing 
+108 clustering data 
+107 constraint 
+107 efficient algorithm 
+106 expression 
+102 temporal 
+102 polynomial 
+102 sampling 

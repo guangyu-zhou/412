@@ -1,0 +1,6 @@
+To run the function:
+1. fp_main.cpp for step 1
+2. max_closed_main.cpp for step 2
+3. purity_main.cpp for step 3
+
+Note: The file involved have to be put under current directory, else the code will fail!

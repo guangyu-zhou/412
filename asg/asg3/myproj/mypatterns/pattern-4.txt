@@ -1,0 +1,80 @@
+1713 query 
+1163 database 
+1040 data 
+767 system 
+637 processing 
+567 distributed 
+528 object 
+508 efficient 
+458 xml 
+382 control 
+380 optimization 
+327 performance 
+313 processing query 
+295 time 
+290 parallel 
+286 join 
+276 system database 
+273 based 
+270 view 
+260 real 
+258 index 
+257 algorithm 
+245 evaluation 
+238 network 
+231 management 
+222 access 
+220 dynamic 
+220 using 
+213 approach 
+212 stream 
+209 memory 
+206 database query 
+199 scheduling 
+187 transaction 
+183 oriented 
+173 optimization query 
+166 file 
+165 spatial 
+165 structure 
+164 adaptive 
+161 relational 
+159 multi 
+159 technique 
+154 object database 
+151 real time 
+150 storage 
+147 environment 
+144 data query 
+141 oriented object 
+136 sql 
+136 architecture 
+133 server 
+133 concurrency 
+132 distributed database 
+128 tree 
+125 distributed system 
+125 distributed database system 
+125 motion 
+125 querying 
+124 efficient query 
+120 recovery 
+118 image 
+115 complex 
+113 shape 
+112 stream data 
+111 multiple 
+110 xml query 
+110 continuous 
+109 aggregate 
+108 peer 
+107 concurrency control 
+107 update 
+106 system data 
+106 system query data 
+106 system database data 
+106 system database query data 
+105 model 
+103 method 
+100 system query 
+100 system database query 
